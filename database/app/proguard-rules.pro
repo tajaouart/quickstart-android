@@ -21,10 +21,10 @@
 -keepattributes EnclosingMethod
 -keepattributes InnerClasses
 
--keep class com.google.firebase.quickstart.database.java.viewholder.** {
+-keep class neverAnswered.java.viewholder.** {
     *;
 }
 
--keepclassmembers class com.google.firebase.quickstart.database.java.models.** {
+-keepclassmembers class neverAnswered.java.models.** {
     *;
 }
